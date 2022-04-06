@@ -3,7 +3,7 @@
 [![CI](https://github.com/rijkvp/blink/actions/workflows/ci.yml/badge.svg)](https://github.com/rijkvp/blink/actions/workflows/ci.yml)
 [![crates.io](https://img.shields.io/crates/v/blink-timer)](https://crates.io/crates/blink-timer)
 
-A <1 MB minimal break notifier program. Helps you remeber to blink during long computer usage.
+A <1 MB minimal break notifier program. Helps you remember to blink during long computer usage.
 
 ## Installation
 
